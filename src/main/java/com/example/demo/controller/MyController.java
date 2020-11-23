@@ -11,4 +11,9 @@ public class MyController {
     public String index(){
         return "index";
     }
+
+    @GetMapping("createProject")
+    public String createProject() {
+        return "createProject";
+    }
 }
