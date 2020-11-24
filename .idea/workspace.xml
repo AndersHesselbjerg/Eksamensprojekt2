@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41688e0b-6a06-4ca0-8ca1-775d9f511508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/templates/createProject.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/templates/includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eksamensprojekt/src/main/java/com/example/demo/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eksamensprojekt/src/main/java/com/example/demo/controller/MyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/static/myCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/static/myCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/templates/includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/templates/includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/eksamensprojekt/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +47,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -62,13 +60,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,6 +91,7 @@
       <updated>1606138037873</updated>
       <workItem from="1606138041416" duration="618000" />
       <workItem from="1606138853605" duration="3220000" />
+      <workItem from="1606207544011" duration="1646000" />
     </task>
     <servers />
   </component>
